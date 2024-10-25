@@ -6,9 +6,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: anxious attacher
 - ## GSSOC(24) Badge
-‹div style='display:flex; align-items:center; gap: 10px; ' align= 'center*>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+  <img src="file:///Users/aryan/Downloads/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-10-24.png" alt="Postman API Fundamentals Student Expert Badge">
 </div>
+
 
 <!---
 aryy8/aryy8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
