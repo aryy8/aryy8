@@ -6,9 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: anxious attacher
 - ## GSSOC(24) Badge
-<div style="display: flex; align-items: center; gap: 10px;" align="center">
-  <img src="file:///Users/aryan/Downloads/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-10-24.png" alt="Postman API Fundamentals Student Expert Badge">
-</div>
+![Postman - Postman API Fundamentals Student Expert - 2024-10-24](https://github.com/user-attachments/assets/e0eeb70d-1a3c-412b-bcc1-802a7593d2e7)
+
 
 
 <!---
