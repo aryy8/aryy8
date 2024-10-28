@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryy8
-- 👀 I’m interested in exploring tech
-- 🌱 I’m currently learning github
+- 👀 I’m interested in building in public
+- 🌱 I’m currently learning github & open source
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me: linkedin www.linkedin.com/in/aryy8
 - 😄 Pronouns: he/him
