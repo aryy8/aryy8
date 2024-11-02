@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryy8
-- 👀 I’m interested in projects & building in public
+- 👀 I’m interested in projects & building network
 - 🌱 I’m currently learning github & open source
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me: linkedin www.linkedin.com/in/aryy8
