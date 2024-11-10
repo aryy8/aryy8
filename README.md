@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryy8
-- 👀 I’m interested in projects & building network
+- 👀 I’m interested in collaborations & building network
 - 🌱 I’m currently learning github & open source
-- 💞️ I’m looking to collaborate on projects 
+- 💞️ I’m looking forward to work on projects 
 - 📫 How to reach me: linkedin www.linkedin.com/in/aryy8
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: believes in energies and vibrations 
