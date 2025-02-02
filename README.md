@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryy8
 - 👀 I’m interested in collaborations & building network
-- 🌱 I’m currently learning github & open source
+- 🌱 I’m currently learning machine learning and AI
 - 💞️ I’m looking forward to work on projects 
 - 📫 How to reach me: linkedin www.linkedin.com/in/aryy8
 - 😄 Pronouns: he/him
