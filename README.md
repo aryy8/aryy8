@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=aryy8)
 - 👋 Hi, I’m @aryy8
 - 👀 I’m interested in collaborations & building network
 - 🌱 I’m currently learning machine learning and AI
