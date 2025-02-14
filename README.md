@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.com/aryy8/aryy8.svg?style=flat-square)](http://hits.dwyl.com/aryy8/aryy8)
+
 - 👋 Hi, I’m @aryy8
 - 👀 I’m interested in collaborations & building network
 - 🌱 I’m currently learning machine learning and AI
