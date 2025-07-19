@@ -1,14 +1,23 @@
 ![](https://komarev.com/ghpvc/?username=aryy8)
-  <p align="left">
-  <img src="IMG_3161.jpg" alt="wiwiwiwi" width="400"/>
-  </p>
-- 👋 Hi, I’m @aryy8
-- 👀 I’m interested in collaborations & building network
-- 🌱 I’m currently learning machine learning and AI
-- 💞️ I’m looking forward to work on projects 
-- 📫 How to reach me: linkedin www.linkedin.com/in/aryy8
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: believes in energies and vibrations
+  <table>
+  <tr>
+    <td>
+      <img src="IMG_3161.jpg" alt="Cat Image" width="250"/>
+    </td>
+    <td>
+      <ul>
+        <li>👋 Hi, I’m @aryy8</li>
+        <li>👀 I’m interested in collaborations & building network</li>
+        <li>🌱 I’m currently learning machine learning and AI</li>
+        <li>💞️ I’m looking forward to work on projects</li>
+        <li>📫 How to reach me: <a href="https://www.linkedin.com/in/aryy8">LinkedIn</a></li>
+        <li>😄 Pronouns: he/him</li>
+        <li>⚡ Fun fact: believes in energies and vibrations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 <!---
