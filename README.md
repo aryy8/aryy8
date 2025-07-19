@@ -6,7 +6,7 @@
 - 📫 How to reach me: linkedin www.linkedin.com/in/aryy8
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: believes in energies and vibrations
-  ![cat](IMG_3161.jpg)
+  <img src="IMG_3161.jpg" alt="wiwiwiwi" width="400"/>
 
 
 <!---
