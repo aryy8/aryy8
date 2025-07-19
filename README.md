@@ -3,18 +3,21 @@
   <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Views"/>
 </p>
 
-<!-- Side-by-side section using flex-like div -->
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="IMG_3161.jpg" alt="Profile Image" width="200" style="border-radius: 12px; box-shadow: 0 0 10px rgba(255,255,255,0.15);"/>
-
-  <div style="font-size: 15px; line-height: 1.6;">
-    👋 Hi, I'm Aryan (@aryy8)<br/>
-    🔭 BUILD & SHIP <br/>
-    🧠 AI/ML enthusiast <br/>
-    💬 Connect on <a href="https://linkedin.com/in/aryy8" target="_blank">LinkedIn</a><br/>
-    ✨ Fun fact: believes in energy & vibrations 
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="IMG_3161.jpg" alt="Cat Image" width="250"/>
+    </td>
+    <td>
+      <ul>
+        <li>👋 Hi, I’m @aryy8</li>
+        <li>👨🏻‍💻BUILD & SHIP</li>
+        <li> <a href="https://www.linkedin.com/in/aryy8">LinkedIn</a></li>
+        <li>⚡Fun fact: believes in energies and vibrations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
