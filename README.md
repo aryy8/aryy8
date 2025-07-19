@@ -10,15 +10,6 @@
       <img src="IMG_3161.jpg" alt="Cat Image" width="250"/>
     </td>
     <td>
-    # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryy8&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryy8&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=aryy8&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
     </td>
   </tr>
 </table>
