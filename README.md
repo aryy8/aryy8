@@ -10,12 +10,7 @@
       <img src="IMG_3161.jpg" alt="Cat Image" width="250"/>
     </td>
     <td>
-      <ul>
-        <li>👋 Hi, I’m @aryy8</li>
-        <li>👨🏻‍💻BUILD & SHIP</li>
-        <li>⚡Fun fact: believes in energies and vibrations</li>
-        <li>💬<a href="https://www.linkedin.com/in/aryy8">LinkedIn</a></li>
-      </ul>
+     ![](https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=dark&hide_border=true)
     </td>
   </tr>
 </table>
