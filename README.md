@@ -5,7 +5,8 @@
 - 💞️ I’m looking forward to work on projects 
 - 📫 How to reach me: linkedin www.linkedin.com/in/aryy8
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: believes in energies and vibrations 
+- ⚡ Fun fact: believes in energies and vibrations
+  ![cat](IMG_3161.jpg)
 
 
 <!---
