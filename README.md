@@ -1,28 +1,20 @@
- <!-- Profile View Counter -->
+<!-- Profile View Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Views"/>
 </p>
 
-<!-- About Me Section with Image -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="IMG_3161.jpg" alt="Profile Image" width="200" style="border-radius: 12px; box-shadow: 0 0 10px rgba(255,255,255,0.1);"/>
-      </td>
-      <td style="padding-left: 25px;">
-        <p align="left" style="font-size: 15px; line-height: 1.6;">
-          👋 Hi, I'm Aryan (@aryy8)<br/>
-          🧠 AI/ML enthusiast | Building impactful tech<br/>
-          🔭 Exploring CV, adversarial ML & TensorFlow<br/>
-          💬 Connect on <a href="https://linkedin.com/in/aryy8" target="_blank">LinkedIn</a><br/>
-          ✨ Fun fact: believer in energy & intuition
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Side-by-side section using flex-like div -->
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="IMG_3161.jpg" alt="Profile Image" width="200" style="border-radius: 12px; box-shadow: 0 0 10px rgba(255,255,255,0.15);"/>
 
+  <div style="font-size: 15px; line-height: 1.6;">
+    👋 Hi, I'm Aryan (@aryy8)<br/>
+    🔭 BUILD & SHIP <br/>
+    🧠 AI/ML enthusiast <br/>
+    💬 Connect on <a href="https://linkedin.com/in/aryy8" target="_blank">LinkedIn</a><br/>
+    ✨ Fun fact: believes in energy & vibrations 
+  </div>
+</div>
 
 
 
