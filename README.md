@@ -10,7 +10,7 @@
       <img src="IMG_3161.jpg" alt="Cat Image" width="250"/>
     </td>
     <td>
-     ![](https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=dark&hide_border=true)
+     ![stats](https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=dark&hide_border=true)
     </td>
   </tr>
 </table>
