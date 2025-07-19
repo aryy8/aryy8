@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=aryy8)
+  <p align="left">
+  <img src="IMG_3161.jpg" alt="wiwiwiwi" width="400"/>
+  </p>
 - 👋 Hi, I’m @aryy8
 - 👀 I’m interested in collaborations & building network
 - 🌱 I’m currently learning machine learning and AI
@@ -6,7 +9,6 @@
 - 📫 How to reach me: linkedin www.linkedin.com/in/aryy8
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: believes in energies and vibrations
-  <img src="IMG_3161.jpg" alt="wiwiwiwi" width="400"/>
 
 
 <!---
