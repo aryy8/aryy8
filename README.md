@@ -1,22 +1,31 @@
 ![](https://komarev.com/ghpvc/?username=aryy8)
+ <!-- Profile View Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Profile Views"/>
+</p>
+
+<!-- About Me Section with Image -->
+<div align="center">
   <table>
-  <tr>
-    <td>
-      <img src="IMG_3161.jpg" alt="Cat Image" width="250"/>
-    </td>
-    <td>
-      <ul>
-        <li>👋 Hi, I’m @aryy8</li>
-        <li>👀 I’m interested in collaborations & building network</li>
-        <li>🌱 I’m currently learning machine learning and AI</li>
-        <li>💞️ I’m looking forward to work on projects</li>
-        <li>📫 How to reach me: <a href="https://www.linkedin.com/in/aryy8">LinkedIn</a></li>
-        <li>😄 Pronouns: he/him</li>
-        <li>⚡ Fun fact: believes in energies and vibrations</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+    <tr>
+      <td>
+        <img src="IMG_3161.jpg" alt="My profile image" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+      </td>
+      <td style="padding-left: 30px;">
+        <p align="left" style="font-size: 16px; line-height: 1.8;">
+          <strong>Hey there! I'm Aryan 👋</strong><br/><br/>
+          🔍 I'm an aspiring AI engineer with a strong interest in Machine Learning, Computer Vision, and Human-centered AI.<br/>
+          🤝 I love collaborating on impactful tech projects that blend innovation and usability.<br/>
+          🚀 Currently diving deep into TensorFlow, adversarial robustness, and real-world model deployment.<br/>
+          💡 Always curious, always learning — especially about how tech can solve social challenges.<br/>
+          🌐 Let's connect on <a href="https://www.linkedin.com/in/aryy8" target="_blank">LinkedIn</a> or collaborate on a project!<br/>
+          😄 Pronouns: he/him | ✨ Fun fact: I believe in the subtle power of energy and vibrations.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
