@@ -10,7 +10,9 @@
       <img src="IMG_3161.jpg" alt="Cat Image" width="250"/>
     </td>
     <td>
-        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vision-friendly-dark&preferLogin=false">    <img  alt="aryy8's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/aryy8?cardType=github&theme=vision-friendly-dark&preferLogin=false" />  </a>
+        <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryy8&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
     </td>
   </tr>
 </table>
