@@ -12,8 +12,8 @@
       <ul>
         <li>👋 Hi, I’m @aryy8</li>
         <li>👨🏻‍💻BUILD & SHIP</li>
-        <li> <a href="https://www.linkedin.com/in/aryy8">LinkedIn</a></li>
         <li>⚡Fun fact: believes in energies and vibrations</li>
+        <li>💬<a href="https://www.linkedin.com/in/aryy8">LinkedIn</a></li>
       </ul>
     </td>
   </tr>
