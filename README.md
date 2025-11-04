@@ -7,11 +7,11 @@
 <table>
   <tr>
     <td>
-      <img src="IMG_3161.jpg" alt="Cat Image" width="300"/>
+      <img src="IMG_3161.jpg" alt="Cat Image" width="200"/>
     </td>
     <td>
        <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false" alt="GitHub Streak" width="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false" alt="GitHub Streak" width="300"/>
 </p>
     </td>
   </tr>
