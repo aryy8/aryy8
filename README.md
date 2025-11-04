@@ -11,7 +11,7 @@
     </td>
     <td>
        <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false" alt="GitHub Streak" width="200"/>
 </p>
     </td>
   </tr>
