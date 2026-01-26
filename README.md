@@ -4,8 +4,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Profile Views"/>
 </p>
-
-<table>
+<img width="784" height="470" alt="Screenshot 2026-01-26 at 10 12 21 PM" src="https://github.com/user-attachments/assets/580ca262-6974-4b3e-bcdc-f5ad10b13249" />
+ <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false" alt="GitHub Streak" width="350"/>
+<img src="https://leetcard.jacoblin.cool/aryy8?theme=dark&font=DM%20Serif%20Text&ext=heatmap" alt="LeetCode Stats" width="350"/>
+<!-- <table>
   <tr>
     <td align="center" width="220">
       <img src="IMG_3161.jpg" alt="Cat Image" width="200"/>
@@ -13,12 +15,10 @@
     <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false" alt="GitHub Streak" width="350"/>
 
-  <br><br>
-
-  <img src="https://leetcard.jacoblin.cool/aryy8?theme=dark&font=DM%20Serif%20Text&ext=heatmap" alt="LeetCode Stats" width="350"/>
+  <!-- <img src="https://leetcard.jacoblin.cool/aryy8?theme=dark&font=DM%20Serif%20Text&ext=heatmap" alt="LeetCode Stats" width="350"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
