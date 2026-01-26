@@ -1,20 +1,21 @@
-## hi! I'm Aryan
+## Hi! I'm Aryan 👋
+
 <!-- Profile View Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Profile Views"/>
 </p>
 
 <table>
   <tr>
-    <td>
+    <td align="center" width="220">
       <img src="IMG_3161.jpg" alt="Cat Image" width="200"/>
     </td>
-    <td>
-       <p>
-   <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false" alt="GitHub Streak" width="300"/> 
-        
-   ![LeetCode Stats](https://leetcard.jacoblin.cool/aryy8?theme=dark&font=DM%20Serif%20Text&ext=heatmap) 
-</p>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false" alt="GitHub Streak" width="350"/>
+
+  <br><br>
+
+  <img src="https://leetcard.jacoblin.cool/aryy8?theme=dark&font=DM%20Serif%20Text&ext=heatmap" alt="LeetCode Stats" width="350"/>
     </td>
   </tr>
 </table>
