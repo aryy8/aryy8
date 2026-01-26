@@ -8,11 +8,12 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false"
        alt="GitHub Streak" width="350"/>
 
-  <br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://leetcard.jacoblin.cool/aryy8?theme=dark&font=DM%20Serif%20Text&ext=heatmap"
        alt="LeetCode Stats" width="350"/>
 </td>
+
 
  
   
