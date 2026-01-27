@@ -1,9 +1,9 @@
 
-## <img width="784" height="470" alt="Screenshot 2026-01-26 at 10 12 21 PM" src="https://github.com/user-attachments/assets/580ca262-6974-4b3e-bcdc-f5ad10b13249" />
-<!-- Profile View Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Profile Views"/>
 </p>
+## <img width="784" height="470" alt="Screenshot 2026-01-26 at 10 12 21 PM" src="https://github.com/user-attachments/assets/580ca262-6974-4b3e-bcdc-f5ad10b13249" />
+<!-- Profile View Counter -->
 <td align="center">
   <table>
     <tr>
