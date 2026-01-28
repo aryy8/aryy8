@@ -11,7 +11,7 @@
     <tr>
       <td align="center">
         <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false"
-             alt="GitHub Streak" width="350"/>
+             alt="GitHub Streak Stats" width="350"/>
       </td>
       <td align="center">
         <img src="https://leetcard.jacoblin.cool/aryy8?theme=dark&font=DM%20Serif%20Text&ext=heatmap"
