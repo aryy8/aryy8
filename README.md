@@ -5,15 +5,15 @@
 </p>
 <img width="1048" height="488" alt="Screenshot 2026-02-12 at 11 18 14 AM" src="https://github.com/user-attachments/assets/f3d4efe2-278b-4b4c-8c42-366d41abc883" />
 
-<!--## <img width="784" height="470" alt="Screenshot 2026-01-26 at 10 12 21 PM" src="https://github.com/user-attachments/assets/580ca262-6974-4b3e-bcdc-f5ad10b13249" />
+
 <img width="1018" height="496" alt="Screenshot 2026-02-01 at 1 54 02 PM" src="https://github.com/user-attachments/assets/43c61dd8-1e11-4e6a-8bc4-7f97b1f7bcf0" />
 
 <td align="center">
   <table>
     <tr>
       <td align="center">
-        <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false"
-             alt="GitHub Streak Stats" width="350"/> -->
+         <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false"
+             alt="GitHub Streak Stats" width="350"/> 
       </td>
       <td align="center">
         <img src="https://leetcard.jacoblin.cool/aryy8?theme=dark&font=DM%20Serif%20Text&ext=heatmap"
