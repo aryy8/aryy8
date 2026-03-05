@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Profile Views"/>
 </p>
-<img width="1048" height="488" alt="Screenshot 2026-02-12 at 11 18 14 AM" src="https://github.com/user-attachments/assets/f3d4efe2-278b-4b4c-8c42-366d41abc883" />
+
 
 
 <img width="1018" height="496" alt="Screenshot 2026-02-01 at 1 54 02 PM" src="https://github.com/user-attachments/assets/43c61dd8-1e11-4e6a-8bc4-7f97b1f7bcf0" />
