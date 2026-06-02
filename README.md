@@ -8,7 +8,7 @@
 
 <img width="1018" height="496" alt="Screenshot 2026-02-01 at 1 54 02 PM" src="https://github.com/user-attachments/assets/43c61dd8-1e11-4e6a-8bc4-7f97b1f7bcf0" />
 
-<td align="center">
+<!-- <td align="center">
   <table>
     <tr>
       <!-- <td align="center">
@@ -21,7 +21,7 @@
       </td>
     </tr>
   </table>
-</td>
+</td> -->
 
 
 
