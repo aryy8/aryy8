@@ -8,18 +8,7 @@
 
 <img width="1018" height="496" alt="Screenshot 2026-02-01 at 1 54 02 PM" src="https://github.com/user-attachments/assets/43c61dd8-1e11-4e6a-8bc4-7f97b1f7bcf0" />
 
-<!-- <td align="center">
-  <table>
-    <tr>
-      <!-- <td align="center">
-         <img src="https://nirzak-streak-stats.vercel.app/?user=aryy8&theme=blue_navy&hide_border=false"
-             alt="GitHub Streak Stats" width="350"/>  -->
-      </td>
-      <td align="center">
-        <img src="https://leetcard.jacoblin.cool/aryy8?theme=dark&font=DM%20Serif%20Text&ext=heatmap"
-             alt="LeetCode Stats" width="350"/>
-      </td>
-    </tr>
+
 
 
 
