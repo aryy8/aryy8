@@ -5,11 +5,28 @@
 </p>
 
 <!-- <img width="1018" height="496" alt="Screenshot 2026-02-01 at 1 54 02 PM" src="https://github.com/user-attachments/assets/43c61dd8-1e11-4e6a-8bc4-7f97b1f7bcf0" /> -->
+<table>
+<tr>
+<td width="40%">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="ascii-art-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="ascii-art.png">
-  <img alt="ASCII art" src="ascii-art.png">
+  <img alt="ASCII art" src="ascii-art.png" width="280">
 </picture>
+
+</td>
+<td width="60%" valign="top">
+WORK EXPERIENCE
+———————————————————————————————
+. Amazon ML Summer School ...... Amazon, 2026
+. AI Engineer .................. Sylus AI, 2026–Present
+. SDE Intern .................... SFedU ICTIS, Russia
+. AI R&D Intern ................. Elumina Street Solutions
+. Research Intern ............... AI² Lab, MUJ
+</td>
+</tr>
+</table>
 
 
 
