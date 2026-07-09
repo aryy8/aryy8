@@ -6,11 +6,10 @@
 
 <!-- <img width="1018" height="496" alt="Screenshot 2026-02-01 at 1 54 02 PM" src="https://github.com/user-attachments/assets/43c61dd8-1e11-4e6a-8bc4-7f97b1f7bcf0" /> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-art-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/ascii-art.png">
-  <img alt="ASCII art" src="assets/ascii-art-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="ascii-art-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="ascii-art.png">
+  <img alt="ASCII art" src="ascii-art.png">
 </picture>
-
 
 
 
