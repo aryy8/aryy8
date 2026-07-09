@@ -17,13 +17,30 @@
 
 </td>
 <td width="60%" valign="top">
-WORK EXPERIENCE
+
+<pre>
+whoami
 ———————————————————————————————
-. Amazon ML Summer School ...... Amazon, 2026
-. AI Engineer .................. Sylus AI, 2026–Present
-. SDE Intern .................... SFedU ICTIS, Russia
-. AI R&D Intern ................. Elumina Street Solutions
-. Research Intern ............... AI² Lab, MUJ
+AI Engineer @ Sylus AI
+Researcher @ AI² Lab, MUJ
+CSE, Manipal University Jaipur '28
+
+currently
+———————————————————————————————
+Amazon ML Summer School 2026
+(3K selected / 1.4L applicants)
+
+stack
+———————————————————————————————
+Python · TypeScript · PyTorch · Next.js
+
+elsewhere
+———————————————————————————————
+Instagram: @aryy.in_
+Portfolio: aryy.in
+LinkedIn: in/aryy8
+</pre>
+
 </td>
 </tr>
 </table>
