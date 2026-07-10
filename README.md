@@ -29,7 +29,6 @@ currently
 Amazon ML Summer School 2026
 AI Engineer @ Sylus AI
 Researcher @ AI² Lab, MUJ
-CSE, Manipal University Jaipur '28  
 
 stack
 ———————————————————————————————
@@ -37,7 +36,6 @@ Python · TypeScript · PyTorch · Next.js
 
 elsewhere
 ———————————————————————————————
-Instagram: @aryy.in_
 Portfolio: aryy.in
 LinkedIn: in/aryy8
 </pre>
