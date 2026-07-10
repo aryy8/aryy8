@@ -21,14 +21,15 @@
 <pre>
 whoami
 ———————————————————————————————
-AI Engineer @ Sylus AI
-Researcher @ AI² Lab, MUJ
-CSE, Manipal University Jaipur '28
+CS engineering student building applied AI systems — ML, NLP, and 
+everything from clean frontends to solid backends.
 
 currently
 ———————————————————————————————
 Amazon ML Summer School 2026
-(3K selected / 1.4L applicants)
+AI Engineer @ Sylus AI
+Researcher @ AI² Lab, MUJ
+CSE, Manipal University Jaipur '28  
 
 stack
 ———————————————————————————————
