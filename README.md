@@ -12,6 +12,7 @@ everything from clean frontends to solid backends.
 
 currently
 ———————————————————————————————
+CPP2 intern @ HPE  
 Amazon ML Summer School 2026
 AI Engineer @ Sylus AI
 Researcher @ AI² Lab, MUJ
