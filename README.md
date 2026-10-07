@@ -5,9 +5,8 @@
 </p>
 
 <table width="100%">
-<tr>
-
-<td width="65%" valign="top">
+  <tr>
+    <td width="70%" valign="top">
 
 <pre>
 &gt; whoami
@@ -26,28 +25,25 @@ AI Engineer @ Sylus AI
 Researcher @ AI2 Lab, MUJ
 </pre>
 
-</td>
+    </td>
 
-<td width="35%" valign="top">
+    <td width="30%" valign="top">
 
 <pre>
 &gt; stack
-────────────────────────────
+──────────────────────
 
 Python · TypeScript
-
 PyTorch · Next.js
 
 
 &gt; elsewhere
-────────────────────────────
+──────────────────────
 
 Portfolio: aryy.in
-
 LinkedIn: in/aryy8
 </pre>
 
-</td>
-
-</tr>
+    </td>
+  </tr>
 </table>
