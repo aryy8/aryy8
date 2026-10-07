@@ -42,6 +42,7 @@ PyTorch · Next.js
 
 Portfolio: aryy.in
 LinkedIn: in/aryy8
+X: @aryyann8  
 </pre>
 
 </td>
