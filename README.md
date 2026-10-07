@@ -4,46 +4,48 @@
   <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Profile Views"/>
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<pre>
-&gt; whoami
-──────────────────────────────────────────────
+<h3>&gt; whoami</h3>
 
-CS engineering student building applied AI systems — ML, NLP, and
+<hr>
+
+CS engineering student building applied AI systems — ML, NLP, and<br>
 everything from clean frontends to solid backends.
 
+<br>
 
-&gt; currently
-──────────────────────────────────────────────
+<h3>&gt; currently</h3>
 
-CPP2 intern @ HPE
-Amazon ML Summer School 2026
-AI Engineer @ Sylus AI
+<hr>
+
+CPP2 intern @ HPE<br>
+Amazon ML Summer School 2026<br>
+AI Engineer @ Sylus AI<br>
 Researcher @ AI2 Lab, MUJ
-</pre>
 
-    </td>
+</td>
 
-    <td width="30%" valign="top">
+<td width="35%" valign="top">
 
-<pre>
-&gt; stack
-──────────────────────
+<h3>&gt; stack</h3>
 
-Python · TypeScript
+<hr>
+
+Python · TypeScript<br>
 PyTorch · Next.js
 
+<br><br>
 
-&gt; elsewhere
-──────────────────────
+<h3>&gt; elsewhere</h3>
 
-Portfolio: aryy.in
+<hr>
+
+Portfolio: aryy.in<br>
 LinkedIn: in/aryy8
-</pre>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
