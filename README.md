@@ -35,7 +35,6 @@ Researcher @ AI2 Lab, MUJ
 
 C++ · Python
 Typescript · React · Next.js
-Tensorflow · Langchain
 FastApi · SQL · Node.js
 GCP · Docker  
 
