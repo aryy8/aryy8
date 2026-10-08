@@ -33,8 +33,11 @@ Researcher @ AI2 Lab, MUJ
 &gt; stack
 ──────────────────────
 
-Python · TypeScript
-PyTorch · Next.js
+C++ · Python
+Typescript · React · Next.js
+Tensorflow · Langchain
+FastApi · SQL · Node.js
+GCP · Docker  
 
 
 &gt; elsewhere
