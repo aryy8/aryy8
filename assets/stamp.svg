@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="132" viewBox="0 0 112 132" role="img" aria-label="Postage stamp: Jaipur, IN, 2026">
+  <defs>
+    <mask id="perf">
+      <rect width="112" height="132" fill="#fff"/>
+      <g fill="#000">
+        <circle cx="0" cy="6" r="3.2"/><circle cx="0" cy="18" r="3.2"/><circle cx="0" cy="30" r="3.2"/><circle cx="0" cy="42" r="3.2"/><circle cx="0" cy="54" r="3.2"/><circle cx="0" cy="66" r="3.2"/><circle cx="0" cy="78" r="3.2"/><circle cx="0" cy="90" r="3.2"/><circle cx="0" cy="102" r="3.2"/><circle cx="0" cy="114" r="3.2"/><circle cx="0" cy="126" r="3.2"/>
+        <circle cx="112" cy="6" r="3.2"/><circle cx="112" cy="18" r="3.2"/><circle cx="112" cy="30" r="3.2"/><circle cx="112" cy="42" r="3.2"/><circle cx="112" cy="54" r="3.2"/><circle cx="112" cy="66" r="3.2"/><circle cx="112" cy="78" r="3.2"/><circle cx="112" cy="90" r="3.2"/><circle cx="112" cy="102" r="3.2"/><circle cx="112" cy="114" r="3.2"/><circle cx="112" cy="126" r="3.2"/>
+        <circle cx="6" cy="0" r="3.2"/><circle cx="18" cy="0" r="3.2"/><circle cx="30" cy="0" r="3.2"/><circle cx="42" cy="0" r="3.2"/><circle cx="54" cy="0" r="3.2"/><circle cx="66" cy="0" r="3.2"/><circle cx="78" cy="0" r="3.2"/><circle cx="90" cy="0" r="3.2"/><circle cx="102" cy="0" r="3.2"/>
+        <circle cx="6" cy="132" r="3.2"/><circle cx="18" cy="132" r="3.2"/><circle cx="30" cy="132" r="3.2"/><circle cx="42" cy="132" r="3.2"/><circle cx="54" cy="132" r="3.2"/><circle cx="66" cy="132" r="3.2"/><circle cx="78" cy="132" r="3.2"/><circle cx="90" cy="132" r="3.2"/><circle cx="102" cy="132" r="3.2"/>
+      </g>
+    </mask>
+  </defs>
+  <g mask="url(#perf)">
+    <rect width="112" height="132" fill="#f6efe3"/>
+    <rect x="9" y="9" width="94" height="114" fill="none" stroke="#c2410c" stroke-width="1.2"/>
+    <g fill="none" stroke="#2563eb" stroke-width="1.6" stroke-linecap="round">
+      <path d="M20 84c10-18 24-26 40-22 10 2 16 10 14 18-2 6-9 8-13 4"/>
+      <path d="M20 96c14 0 22-6 34-6s20 6 38 6" stroke-opacity=".6"/>
+    </g>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#3f3f46" text-anchor="middle">
+      <text x="56" y="34" font-size="11" letter-spacing="2">JAIPUR</text>
+      <text x="56" y="48" font-size="9" letter-spacing="2" fill="#71717a">IN · 2026</text>
+      <text x="56" y="114" font-size="8" letter-spacing="1.5" fill="#c2410c">ARYY.IN</text>
+    </g>
+  </g>
+</svg>
