@@ -16,3 +16,6 @@ I study computer science at Manipal University Jaipur (class of '28) and live in
 **What I work with**
 
 ![Python, C++, TypeScript, React, Next.js, Node.js, FastAPI, Docker, GCP, AWS, Supabase, PyTorch, TensorFlow, scikit-learn, OpenCV](https://skillicons.dev/icons?i=py,cpp,ts,react,nextjs,nodejs,fastapi,docker,gcp,aws,supabase,pytorch,tensorflow,sklearn,opencv&theme=dark)
+
+Happy to talk about ML, research ideas or something you're building.
+[aryy.in](https://aryy.in) · [LinkedIn](https://linkedin.com/in/aryy8) · [X @aryyann8](https://x.com/aryyann8)
