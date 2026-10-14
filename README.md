@@ -12,3 +12,7 @@ I study computer science at Manipal University Jaipur (class of '28) and live in
 **Things I've made**
 
 [Petal](https://petal.aryy.in) edits PDFs from plain-English requests. [MinGraph](https://mingraph.aryy.in) runs pathfinding over Jaipur's real road network. [Lattice](https://lattice.aryy.in) makes AI text sound human, and somehow found 400+ users across 52 countries. [teXlab](https://texlab.aryy.in) turns a sentence into a LaTeX diagram.
+
+**What I work with**
+
+![Python, C++, TypeScript, React, Next.js, Node.js, FastAPI, Docker, GCP, AWS, Supabase, PyTorch, TensorFlow, scikit-learn, OpenCV](https://skillicons.dev/icons?i=py,cpp,ts,react,nextjs,nodejs,fastapi,docker,gcp,aws,supabase,pytorch,tensorflow,sklearn,opencv&theme=dark)
