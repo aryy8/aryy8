@@ -1,13 +1,3 @@
-<!-- Profile View Counter -->
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aryy8" alt="Profile Views"/>
-</p>
-
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
 <pre>
 &gt; whoami
 ──────────────────────────────────────────────
