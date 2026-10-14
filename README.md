@@ -1,44 +1,10 @@
-<td>
-  
-<pre>
-&gt; whoami
-──────────────────────────────────────────────
+### Hi, I'm Aryan
 
-CS engineering student building applied AI systems — ML, NLP, and
-everything from clean frontends to solid backends.
+I study computer science at Manipal University Jaipur (class of '28) and live in Jaipur. I like building applied AI end to end: the model, the backend around it, and a frontend that people actually enjoy using.
 
+**What I'm doing now**
 
-&gt; currently
-──────────────────────────────────────────────
-
-CPP2 intern @ HPE
-Amazon ML Summer School 2026
-AI Engineer @ Sylus AI
-Researcher @ AI2 Lab, MUJ
-</pre>
-
-</td>
-
-<td width="35%" valign="top">
-
-<pre>
-&gt; stack
-──────────────────────
-
-C++ · Python
-Typescript · React · Next.js
-FastApi · SQL · Node.js
-GCP · Docker  
-
-
-&gt; elsewhere
-──────────────────────
-
-Portfolio: aryy.in
-LinkedIn: in/aryy8
-X: @aryyann8  
-</pre>
-
-</td>
-</tr>
-</table>
+- AI Engineer at Sylus AI
+- CPP-2 with HPE
+- Amazon ML Summer School '26
+- Researcher at the AI² Lab, MUJ, mostly on LLM safety and alignment
