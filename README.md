@@ -1,21 +1,31 @@
-### Hi, I'm Aryan
+<table>
+<tr>
+<td width="300" valign="top">
+<img src="assets/snoopy-postcard.webp" width="300" alt="Snoopy surfing a big blue wave" />
+</td>
+<td valign="top">
 
-I study computer science at Manipal University Jaipur (class of '28) and live in Jaipur. I like building applied AI end to end: the model, the backend around it, and a frontend that people actually enjoy using.
+<img src="assets/stamp.svg" width="72" align="right" alt="Stamp: Jaipur, IN, 2026" />
 
-**What I'm doing now**
+Hi, I'm Aryan.
 
-- AI Engineer at Sylus AI
-- CPP-2 with HPE
-- Amazon ML Summer School '26
-- Researcher at the AI² Lab, MUJ, mostly on LLM safety and alignment
+Writing from Jaipur, where I study CS at Manipal (class of '28) and try to make models behave.
 
-**Things I've made**
+**currently surfing:**
+CPP-2 at HPE, AI engineering at Sylus AI, Amazon ML Summer School '26, and LLM safety research at the AI² Lab, MUJ.
 
-[Petal](https://petal.aryy.in) edits PDFs from plain-English requests. [MinGraph](https://mingraph.aryy.in) runs pathfinding over Jaipur's real road network. [Lattice](https://lattice.aryy.in) makes AI text sound human, and somehow found 400+ users across 52 countries. [teXlab](https://texlab.aryy.in) turns a sentence into a LaTeX diagram.
+**things I've shipped:**
+[Petal](https://petal.aryy.in), a PDF editor you just talk to. [MinGraph](https://mingraph.aryy.in), pathfinding across every road in Jaipur. [Lattice](https://lattice.aryy.in), which makes text sound natural and somehow reached 400+ people in 52 countries. And [teXlab](https://texlab.aryy.in), for when you'd rather describe a LaTeX diagram than draw it.
 
-**What I work with**
+Wish you were here,
+*— aryan*
 
-![Python, C++, TypeScript, React, Next.js, Node.js, FastAPI, Docker, GCP, AWS, Supabase, PyTorch, TensorFlow, scikit-learn, OpenCV](https://skillicons.dev/icons?i=py,cpp,ts,react,nextjs,nodejs,fastapi,docker,gcp,aws,supabase,pytorch,tensorflow,sklearn,opencv&theme=dark)
+<sub><code>POSTMARKED JAIPUR · IN · 2026</code></sub>
 
-Happy to talk about ML, research ideas or something you're building.
-[aryy.in](https://aryy.in) · [LinkedIn](https://linkedin.com/in/aryy8) · [X @aryyann8](https://x.com/aryyann8)
+</td>
+</tr>
+</table>
+
+![Python, C++, TypeScript, React, Next.js, Node.js, FastAPI, Docker, GCP, AWS, Supabase, PyTorch, TensorFlow, scikit-learn, OpenCV](https://skillicons.dev/icons?i=py,cpp,ts,react,nextjs,nodejs,fastapi,docker,gcp,aws,supabase,pytorch,tensorflow,sklearn,opencv)
+
+[aryy.in](https://aryy.in) · [linkedin.com/in/aryy8](https://linkedin.com/in/aryy8) · [x.com/aryyann8](https://x.com/aryyann8)
