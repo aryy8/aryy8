@@ -17,7 +17,7 @@ CPP-2 at HPE, AI engineering at Sylus AI, Amazon ML Summer School '26, and LLM s
 
 *— aryan*
 
-<sub><code>POSTMARKED JAIPUR · IN · 2026</code></sub>
+<!-- <sub><code>POSTMARKED JAIPUR · IN · 2026</code></sub> -->
 
 </td>
 </tr>
